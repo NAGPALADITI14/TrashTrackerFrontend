@@ -119,13 +119,13 @@ const AuthPage = ({ setToken }) => {
                 ) : <div>Logged In</div>}
             </div>
             
-            <iframe 
+            {/* <iframe 
                 className="chat-bot" 
                 width="350" 
                 height="300" 
                 allow="microphone;" 
                 src="https://console.dialogflow.com/api-client/demo/embedded/b60d498c-5bf0-4af1-a693-a955e63834dc"
-            />
+            /> */}
         </div>
     );
 };
