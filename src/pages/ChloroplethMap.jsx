@@ -60,3 +60,7 @@ const ChoroplethMap = ({ geoJsonData, sectorData }) => {
 };
 
 export default ChoroplethMap;
+
+
+
+
